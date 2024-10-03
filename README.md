@@ -33,4 +33,4 @@ Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de te
 
 ### Com posar una imatge
 
-![C:\Repositorios\ASIX1-Aprend\venom.jpeg](UbicacioImatge "Titol opcional")
+![ImatgeVenom](C:\Repositorios\venom.jpeg "Titol opcional")
