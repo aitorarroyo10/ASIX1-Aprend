@@ -34,3 +34,9 @@ Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de te
 ### Com posar una imatge
 
 ![ImatgeVenom](https://github.com/aitorarroyo10/ASIX1-Aprend/blob/main/venom.jpg "Titol opcional")
+
+|Titol 1 | Titol 2 | Titol 3 |
+|----------|-------------:|---------------:|
+| SMX2 | Curs 2324|25|
+|ASIX1|Curs 2425|33|
+|DAW2|Curs 2425|32|
